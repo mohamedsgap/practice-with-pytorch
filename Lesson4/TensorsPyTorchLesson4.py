@@ -8,7 +8,7 @@ def activation(x):
         ---------
         x: torch.Tensor
     """
-    return 1/(1+torch.exp(-x))
+    return 1/(1+torch.exp(-x)) 
 
 ### Generate some data
 torch.manual_seed(7) # Set the random seed so things are predictable
