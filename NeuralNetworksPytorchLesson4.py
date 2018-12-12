@@ -1,5 +1,5 @@
 #for building a neural network in pytorch we should import some packages.
-# Import necessary packages
+# Import necessary packages.
 
 # %matplotlib inline
 # %config InlineBackend.figure_format = 'retina'
