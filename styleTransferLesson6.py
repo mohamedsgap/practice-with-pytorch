@@ -1,4 +1,4 @@
-# import resources
+# import resources!
 #%matplotlib inline
 
 from PIL import Image
