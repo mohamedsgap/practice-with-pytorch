@@ -52,3 +52,5 @@ output= activation(torch.mm(h,W2)+B2)
 print(output)
 
 
+
+
